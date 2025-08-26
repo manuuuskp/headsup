@@ -1,0 +1,6 @@
+express.json() - to parse the incoming body.
+bcrypt - password hashing.
+cookie-parser - to get the cookie from the client.
+multer - to get the multipart data from the client.
+p-limit - limit the backend call which is in loop for making parallel calls.
+jsonwebtoken - to sign and verify the json token
